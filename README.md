@@ -16,7 +16,8 @@ cd Fake_News_Detection
 
 Create a virtual environment and activate it:
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate  
+# On Windows use `venv\Scripts\activate`
 
 # Install dependencies:
 pip install -r requirements.txt
